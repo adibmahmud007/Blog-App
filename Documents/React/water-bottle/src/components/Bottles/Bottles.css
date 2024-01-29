@@ -1,0 +1,15 @@
+.bottles-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.bottle-cart img{
+    width: 200px;
+}
+.bottle-cart{
+    border: 2px solid darkslateblue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 300px;
+}
